@@ -61,5 +61,5 @@ To run this project, follow the steps below:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/news-scraper-nlp.git
-cd news-scraper-nlp
+git clone https://github.com/ShahanaTK/News_Article_Analysis.git
+cd News_Article_Analysis
